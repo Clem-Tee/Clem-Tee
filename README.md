@@ -3,14 +3,18 @@ Hello! This profile is crafted to showcase my journey in data science and AI.
 Feel free to use it as inspiration.
 -->
 
-<!-- New Asymmetrical Header -->
-<table>
+<!-- New Asymmetrical Header with Centered Columns -->
+<table width="100%">
   <tr>
-    <td valign="top">
+    <td align="center" valign="middle" width="50%">
+      <!-- GIF on the LEFT, centered in its column -->
+      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding From Home" width="250"/>
+    </td>
+    <td align="center" valign="middle" width="50%">
+      <!-- Text & Socials on the RIGHT, centered in its column -->
       <h1>Hi there, I'm Clement Ogol 👋</h1>
       <h3>A Data Analyst & AI Enthusiast passionate about turning data into impactful solutions.</h3>
       <br/>
-      <!-- Social Icons -->
       <div>
         <a href="https://www.linkedin.com/in/clementogol/" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Clement Ogol's LinkedIn" width="40" height="40" />
@@ -19,10 +23,6 @@ Feel free to use it as inspiration.
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Clement Ogol's Twitter" width="40" height="40" />
         </a>
       </div>
-    </td>
-    <td valign="top" width="40%">
-      <!-- GIF on the right -->
-      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding From Home" width="300"/>
     </td>
   </tr>
 </table>
