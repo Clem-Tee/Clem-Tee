@@ -3,27 +3,25 @@ Hello! This profile is crafted to showcase my journey in data science and AI.
 Feel free to use it as inspiration.
 -->
 
-<!-- New Two-Column Header -->
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h1>Clement Ogol</h1>
-      <h3>Data Analyst & AI Enthusiast</h3>
-      <p>
-        I transform complex data into impactful, data-driven solutions. My passion lies at the intersection of machine learning, AI, and practical problem-solving.
-      </p>
-      <a href="https://www.linkedin.com/in/clementogol/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-      </a>
-      <a href="https://twitter.com/clem_zenith" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-      </a>
-    </td>
-    <td width="40%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Clem-Tee&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" alt="Clement Ogol's GitHub Stats" />
-    </td>
-  </tr>
-</table>
+<!-- Header Section -->
+<div id="header" align="center">
+  <!-- GIF size reduced -->
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  
+  <h1 align="center">Hi there, I'm Clement Ogol 👋</h1>
+  
+  <h3 align="center">A Data Analyst & AI Enthusiast passionate about turning data into impactful solutions.</h3>
+  
+  <!-- Social Icons - size reduced -->
+  <div align="center">
+    <a href="https://www.linkedin.com/in/clementogol/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Clement Ogol's LinkedIn" width="30" height="30" />
+    </a>
+    <a href="https://twitter.com/clem_zenith" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Clement Ogol's Twitter" width="30" height="30" />
+    </a>
+  </div>
+</div>
 
 ---
 
@@ -73,8 +71,12 @@ My toolkit is structured around the data science lifecycle, from analysis to dep
 
 ### 📊 My GitHub Stats & Activity
 
-<!-- Keeping the other cards here to supplement the header card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clem-Tee&layout=compact&langs_count=8&theme=vision-friendly-dark&hide_border=true"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Clem-Tee&theme=vision-friendly-dark&hide_border=true" alt="Clem-Tee's GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Clem-Tee&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clem-Tee&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
 </p>
+
+<!-- Minimalist Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Clem-Tee&theme=vision-friendly-dark" alt="Clem-Tee's GitHub Activity Graph" />
+</div>
