@@ -3,29 +3,25 @@ Hello! This profile is crafted to showcase my journey in data science and AI.
 Feel free to use it as inspiration.
 -->
 
-<!-- New Asymmetrical Header with Centered Columns -->
-<table width="100%">
-  <tr>
-    <td align="center" valign="middle" width="50%">
-      <!-- GIF on the LEFT, centered in its column -->
-      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding From Home" width="250"/>
-    </td>
-    <td align="center" valign="middle" width="50%">
-      <!-- Text & Socials on the RIGHT, centered in its column -->
-      <h1>Hi there, I'm Clement Ogol 👋</h1>
-      <h3>A Data Analyst & AI Enthusiast passionate about turning data into impactful solutions.</h3>
-      <br/>
-      <div>
-        <a href="https://www.linkedin.com/in/clementogol/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Clement Ogol's LinkedIn" width="40" height="40" />
-        </a>
-        <a href="https://twitter.com/clem_zenith" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Clement Ogol's Twitter" width="40" height="40" />
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
+<!-- Header Section -->
+<div id="header" align="center">
+  <!-- GIF size reduced -->
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  
+  <h1 align="center">Hi there, I'm Clement Ogol 👋</h1>
+  
+  <h3 align="center">A Data Analyst & AI Enthusiast passionate about turning data into impactful solutions.</h3>
+  
+  <!-- Social Icons - size reduced -->
+  <div align="center">
+    <a href="https://www.linkedin.com/in/clementogol/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Clement Ogol's LinkedIn" width="30" height="30" />
+    </a>
+    <a href="https://twitter.com/clem_zenith" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Clement Ogol's Twitter" width="30" height="30" />
+    </a>
+  </div>
+</div>
 
 ---
 
