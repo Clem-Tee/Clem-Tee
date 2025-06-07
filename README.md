@@ -5,17 +5,17 @@ Feel free to use it as inspiration.
 
 <!-- Header Section -->
 <div id="header" align="center">
-  <!-- Switched back to the coding animation -->
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
+  <!-- Reduced GIF size for a cleaner look -->
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
   
   <h1 align="center">Hi there, I'm Clement Ogol 👋</h1>
   
   <h3 align="center">A Data Analyst & AI Enthusiast passionate about turning data into impactful solutions.</h3>
   
-  <!-- Social Icons -->
+  <!-- Colorful Social Icons -->
   <div align="center">
     <a href="https://www.linkedin.com/in/clementogol/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" alt="Clement Ogol's LinkedIn" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Clement Ogol's LinkedIn" width="40" height="40" />
     </a>
     <a href="https://twitter.com/clem_zenith" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Clement Ogol's Twitter" width="40" height="40" />
