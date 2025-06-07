@@ -88,7 +88,7 @@ My toolkit is geared towards extracting, transforming, and modeling data to unco
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clem-Tee&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
 </p>
 
-<!-- Replacing the broken snake animation with the GitHub Trophy Board -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Clem-Tee&theme=vision-friendly-dark&column=7&row=1" alt="Clem-Tee's GitHub Trophies" />
-</p>
+<!-- Replacing the bottom section with a minimalist Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Clem-Tee&theme=vision-friendly-dark" alt="Clem-Tee's GitHub Activity Graph" />
+</div>
