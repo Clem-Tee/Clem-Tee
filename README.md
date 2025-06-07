@@ -76,9 +76,7 @@ My toolkit is structured around the data science lifecycle, from analysis to dep
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clem-Tee&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
 </p>
 
-<!-- Enhanced Activity Graph -->
+<!-- Enhanced Activity Graph (Not Clickable) -->
 <div align="center">
-  <a href="https://github.com/Clem-Tee">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Clem-Tee&theme=vision-friendly-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20(Last%20Year)" alt="Clem-Tee's GitHub Activity Graph" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Clem-Tee&theme=vision-friendly-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20(Last%20Year)" alt="Clem-Tee's GitHub Activity Graph" />
 </div>
