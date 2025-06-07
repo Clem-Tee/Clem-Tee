@@ -5,20 +5,20 @@ Feel free to use it as inspiration.
 
 <!-- Header Section -->
 <div id="header" align="center">
-  <!-- A more data-centric/techy animation -->
-  <img src="https://media.giphy.com/media/i_3krI92q5He0d3Dca/giphy.gif" width="200"/>
+  <!-- Switched back to the coding animation -->
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
   
   <h1 align="center">Hi there, I'm Clement Ogol 👋</h1>
   
   <h3 align="center">A Data Analyst & AI Enthusiast passionate about turning data into impactful solutions.</h3>
   
-  <!-- Social Links -->
+  <!-- Social Icons -->
   <div align="center">
     <a href="https://www.linkedin.com/in/clementogol/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" alt="Clement Ogol's LinkedIn" width="40" height="40" />
     </a>
     <a href="https://twitter.com/clem_zenith" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Clement Ogol's Twitter" width="40" height="40" />
     </a>
   </div>
 </div>
@@ -66,7 +66,7 @@ My toolkit is geared towards extracting, transforming, and modeling data to unco
 
 | Project / Achievement                               | Description                                                                                                                              | Key Skills                                     | Link                                                                                                                                                                      |
 | --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Nairobi Apartment Price Prediction** 🏘️           | Built a predictive model using Random Forest that **reduced the mean absolute error by 28%**.                                            | `Python`, `Scikit-learn`, `Pandas`, `ML`       | <a href="https://github.com/Clem-T-ee/nairobi_apartment_prediction" target="_blank">**GitHub Repo**</a>                                                                    |
+| **Nairobi Apartment Price Prediction** 🏘️           | Built a predictive model using Random Forest that **reduced the mean absolute error by 28%**.                                            | `Python`, `Scikit-learn`, `Pandas`, `ML`       | <a href="https://github.com/Clem-Tee/nairobi_apartment_prediction" target="_blank">**GitHub Repo**</a>                                                                    |
 | **AI Video Trainer & Writer** 🎥                    | Annotated and authored detailed descriptions for complex video scenes, directly improving an AI's comprehension of visual data.          | `Data Annotation`, `AI Training`               | **[Professional Experience]**                                                                                                                                             |
 | **Data-Driven Digital Marketing** 🚀              | Boosted web traffic by **25%** and platform engagement by **18%** by conducting audience analysis and developing data-driven content strategies. | `KPI Analysis`, `Data-Driven Decisions`        | **[Professional Experience]**                                                                                                                                             |
 | **Jumia Price Monitor** 🛒                          | A Python script that scrapes the Jumia website to monitor and track product prices, showcasing data acquisition skills.                    | `Python`, `Web Scraping`, `BeautifulSoup`      | <a href="https://github.com/Clem-Tee/jumia-price-monitor" target="_blank">**GitHub Repo**</a>                                                                            |
@@ -92,8 +92,3 @@ My toolkit is geared towards extracting, transforming, and modeling data to unco
 <div align="center">
   <img src="https://raw.githubusercontent.com/Clem-Tee/Clem-Tee/output/github-contribution-grid-snake.svg" alt="snake"/>
 </div>
-
-<!-- 
-NOTE:
-- The animated snake graph requires a simple one-time setup. See instructions online for "github-contribution-grid-snake-animation".
--->
