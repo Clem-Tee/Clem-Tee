@@ -31,15 +31,11 @@ Feel free to use it as inspiration.
 
 I am a Data Analyst with a BSc in Information Technology and practical experience in AI model training, data annotation, and machine learning. I thrive on leveraging data to drive performance, demonstrated by a 28% accuracy improvement in a predictive modeling project and boosting web traffic by 25% through data-driven strategies.
 
-🎓 I'm continuously advancing my skills through the Applied Data Science & AI Labs at WorldQuant University.
-
-🔭 I’m currently exploring advanced computer vision techniques and building end-to-end data pipelines.
-
-🌱 My focus is on deepening my expertise in Deep Learning, MLOps, and statistical modeling.
-
-🤝 I’m eager to collaborate on data science projects, especially in predictive analytics or data visualization.
-
-📫 You can reach me at: **clementogol@gmail.com**
+- 🎓 Continuously advancing my skills through the Applied Data Science & AI Labs at WorldQuant University.
+- 🔭 Exploring advanced computer vision techniques and building end-to-end data pipelines.
+- 🌱 Deepening my expertise in Deep Learning, MLOps, and statistical modeling.
+- 🤝 Eager to collaborate on data science projects, especially in predictive analytics or data visualization.
+- 📫 Reach me at: **clementogol@gmail.com**
 
 ---
 
