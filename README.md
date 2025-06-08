@@ -15,7 +15,7 @@ Feel free to use it as inspiration.
 
   <!-- Social Icons - size reduced -->
 
-  <div align="center">
+  <div align="right">
     <a href="https://www.linkedin.com/in/clementogol/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Clement Ogol's LinkedIn" width="30" height="30" />
     </a>
